@@ -1,5 +1,5 @@
 package fundamentals;
 
 public class DataType {
-    // GG easy
+    // GG easy Guy
 }
